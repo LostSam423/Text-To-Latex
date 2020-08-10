@@ -13,4 +13,4 @@ To see an illustration, see `samples/` directory.
 
 ## Certificate
 
-![certificate](certficate.png)
+![certificate](certificate.png)
