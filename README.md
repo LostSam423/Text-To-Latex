@@ -10,3 +10,7 @@ How to Use-
 * To run the formatting part, run `python main.py` inside the regex folder in the repo. The text is set in `data.txt` file. 
 
 To see an illustration, see `samples/` directory. 
+
+## Certificate
+
+![certificate](certficate.png)
